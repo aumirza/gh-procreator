@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gh-procreator/static/css/main.6446026e.css",
+    "main.js": "/gh-procreator/static/js/main.38762e0d.js",
+    "static/js/787.6496de9e.chunk.js": "/gh-procreator/static/js/787.6496de9e.chunk.js",
+    "index.html": "/gh-procreator/index.html",
+    "main.6446026e.css.map": "/gh-procreator/static/css/main.6446026e.css.map",
+    "main.38762e0d.js.map": "/gh-procreator/static/js/main.38762e0d.js.map",
+    "787.6496de9e.chunk.js.map": "/gh-procreator/static/js/787.6496de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6446026e.css",
+    "static/js/main.38762e0d.js"
+  ]
+}
